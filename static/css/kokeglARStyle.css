@@ -6,26 +6,26 @@ a {
 }
 h1 {
   color: #69821b;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 50px;
 }
-.welcome{
+.welcome {
   color: #69821b;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 50px;
   background: linear-gradient(transparent 10%, #1c1d1e 0%);
 }
 .title {
   color: #69821b;
   margin-top: 0px;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 48px;
   background: linear-gradient(transparent 10%, #1c1d1e 0%);
 }
 .studyDay {
   color: #69821b;
   margin-top: 0px;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 48px;
   background: linear-gradient(transparent 10%, #1c1d1e 0%);
 }

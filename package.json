@@ -1,0 +1,15 @@
+{
+  "name": "kokegl.io",
+  "version": "1.0.0",
+  "description": "kokegl - WebGL moss texture experiments",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write . && find . -name '*.html' -not -path './.git/*' -exec sed -i 's/<!doctype html>/<!DOCTYPE html>/g' {} +",
+    "validate": "html-validate \"*.html\" \"study_page/**/*.html\"",
+    "validate:all": "html-validate --max-warnings=-1 \"*.html\" \"study_page/**/*.html\""
+  },
+  "devDependencies": {
+    "html-validate": "^9.5.3",
+    "prettier": "^3.8.1"
+  }
+}
