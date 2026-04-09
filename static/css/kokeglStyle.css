@@ -7,7 +7,7 @@ a {
 .main {
   background-color: #1c1d1e;
   color: #69821b;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 /* ▼キャプション付き画像全体を囲むボックスの装飾 */
 p.imagebox {
